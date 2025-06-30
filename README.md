@@ -144,4 +144,4 @@
 docker compose up -d
 ```
 
-至此，您的机器人已经成功在后台运行。您可以通过 `docker-compose logs -f` 命令查看实时日志，确保一切正常。 
+至此，您的机器人已经成功在后台运行。您可以通过 `docker compose logs -f` 命令查看实时日志，确保一切正常。 
