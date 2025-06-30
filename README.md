@@ -88,7 +88,7 @@
 1. **创建文件：**
 
    ```bash
-   nano docker compose.yml
+   nano docker-compose.yml
    ```
 
 2. **将以下内容完整粘贴进去：**
