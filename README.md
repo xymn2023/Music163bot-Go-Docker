@@ -83,7 +83,7 @@
 
 ##### **第二步：在相同目录下创建 `docker-compose.yml`**
 
-您的配置文件已经就绪。现在，我们在**同一个目录** (`/home/music163bot`) 下创建用于一键部署的 `docker-compose.yml` 文件。已包含自定义 telegram bot API部署
+您的配置文件已经就绪。现在，我们在**同一个目录** (`/home/music163bot`) 下创建用于一键部署的 `docker-compose.yml` 文件。已包含自定义 telegram bot API部署，api访问：http://ip:8081
 
 1. **创建文件：**
 
