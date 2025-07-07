@@ -51,8 +51,8 @@
    # 自定义 telegram bot API 地址
    BotAPI = https://api.telegram.org
    
-   # 设置 bot 管理员 ID, 用 “," 分隔
-   BotAdmin = 115414,1919810
+   # 设置 bot 管理员 ID
+   BotAdmin = 115414
    
    # 是否开启 bot 的 debug 功能
    BotDebug = false
@@ -79,7 +79,7 @@
    ReverseProxy = 114.5.1.4:8080
    ```
 
-   编辑完成后，按 `Ctrl+X` -> `Y` -> `Enter` 保存并退出。
+   多用户管理会报错，编辑完成后，按 `Ctrl+X` -> `Y` -> `Enter` 保存并退出。
 
 ##### **第二步：在相同目录下创建 `docker-compose.yml`**
 
